@@ -1,1 +1,1 @@
-Using react hook 'useState' to get show a list for peopls birthday 
+Using react hook 'useState' to show a list of peopls birthday 
